@@ -1,2 +1,2 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>Optional Parameters Test</h1>
+<p>Visit <a href="/collection/article">collection/article</a> to navigate client side, should work, then refresh SSR should give 404 error.</p>
